@@ -1,6 +1,7 @@
 # Youtube-View-Bot
 
-There is README.md and README.txt -- they are the same
+# THIS PROBABLY DOESNT WORK ANYMORE
+
 
 I have made a simple YouTube view bot using Python. Not every view counts because of how YouTube works. I ran it for a few minutes and got over 50 views.
 
